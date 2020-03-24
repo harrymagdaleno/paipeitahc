@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yinahquee.tablam.org/sitemap.xml
